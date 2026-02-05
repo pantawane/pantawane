@@ -1,20 +1,26 @@
 # Hi, I'm Vansh 👋
+**Computer Science undergraduate | Full Stack Developer**
 
-Computer Science undergraduate with hands-on experience in full-stack web development using the MERN stack.
-I build and deploy AI-powered web applications using Large Language Models (LLMs).
+I build and deploy AI-powered web applications using the MERN stack, with hands-on experience in frontend, backend, APIs, and cloud deployment.
 
 ## 🛠 Tech Stack
-- Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express
-- Databases: MongoDB, PostgreSQL
-- Tools: Git, Docker, Vercel, Render
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Docker, Vercel, Render
 
-## 🚀 Projects
-- **AI Resume Builder** – ATS-friendly resume generator using LLMs  
-  Live: https://resume-generator.vercel.app  
-- **AI Blog Generator** – Blog generation web app using LLMs  
-  Live: https://quick-blog.vercel.app  
+## 🚀 Featured Projects
 
-## 📫 Contact
+### 🔹 AI Resume Builder
+**Tech:** React, Node.js, Express, MongoDB, LLM  
+**Live:** https://resume-generator.vercel.app  
+**GitHub:** https://github.com/pantawane/ai-resume-builder
+
+### 🔹 AI Blog Generator
+**Tech:** React, Node.js, Express, LLM  
+**Live:** https://quick-blog.vercel.app  
+**GitHub:** https://github.com/pantawane/ai-blog-generator
+
+## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/vansh-pantawane
-- Portfolio: your-portfolio-link.com
+- Email: your@email.com
