@@ -13,12 +13,12 @@ I build and deploy AI-powered web applications using the MERN stack, with hands-
 
 ### 🔹 AI Resume Builder
 **Tech:** React, Node.js, Express, MongoDB, LLM  
-**Live:** https://resume-generator.vercel.app  
+**Live:** https://resume-generator-client.vercel.app/
 **GitHub:** https://github.com/pantawane/ai-resume-builder
 
 ### 🔹 AI Blog Generator
 **Tech:** React, Node.js, Express, LLM  
-**Live:** https://quick-blog.vercel.app  
+**Live:** https://quick-blog-o648kuylr-vanshs-projects-1f01b9b0.vercel.app/
 **GitHub:** https://github.com/pantawane/ai-blog-generator
 
 ## 📫 Connect with me
