@@ -50,7 +50,7 @@
 
 **Tech:** React · Node.js · Express · LLM API · Vercel · Render
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat)](https://quick-blog.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat)]([https://quick-blog.vercel.app](https://quick-blog-git-main-vanshs-projects-1f01b9b0.vercel.app/?))
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/pantawane/ai-blog-generator)
 
 ---
