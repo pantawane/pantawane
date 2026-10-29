@@ -81,6 +81,7 @@ An AI travel planner that turns natural-language trip requests into structured t
 
 **Tech:** Python · LangGraph · LangChain · FastAPI · Groq · PostgreSQL · Tavily · AviationStack · HTML/CSS/JavaScript
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-2EA44F?style=flat&logo=vercel&logoColor=white)](https://tripmate-ai-5hbp.onrender.com/)
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pantawane/Tripmate-AI)
 
 ---
